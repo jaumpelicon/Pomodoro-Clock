@@ -14,4 +14,4 @@ Step-by-step
 6-If there are less than 4 markings, take a short break (3-5 minutes);
 7-After the fourth appointment, take a longer break (10-30 minutes), zeroing the dial count and returning to step 1.
 
-This project was based on the Freshman tutorial which reused the sound files, html and css and implemented the javascript part following his tutorial on the https://freshman.tech/pomodoro-timer/
+This project was based on the Freshman tutorial which reused the sound files, html and css and implemented the javascript part following your tutorial on the pomodoro https://freshman.tech/pomodoro-timer/
