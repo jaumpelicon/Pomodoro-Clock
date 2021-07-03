@@ -1,4 +1,5 @@
 # Pomodoro-Clock-Jera-Academy
+Developed by João Carlos Peliçon
 Working on a pomodoro watch to try to join Jera Academy.
 This project was developed and implemented using javascript and html.
 In this project I am developing a software for the use of the Pomodoro technique, it is a time management method developed by Francesco Cirillo in the late 1980s. 
